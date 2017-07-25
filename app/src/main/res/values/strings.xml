@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BDApp</string>
+    <string name="Asignatura">Asignatura</string>
+    <string name="Estudiante">Estudiante</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="cantidadEstudiante">cantidadEstudiantes</string>
+</resources>
